@@ -1,13 +1,5 @@
 import flet as ft
 
-# data = [
-#     ["AC","%","del","÷"],
-#     ["7","8","9","x"],
-#     ["4","5","6","-"],
-#     ["1","2","3","+"],
-#     ["0",".","="]
-# ]
-
 def main(page: ft.Page):
     page.theme_mode = "dark"
     page.vertical_alignment = "end"
